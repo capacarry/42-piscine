@@ -6,7 +6,7 @@
 /*   By: gcapa-pe <gcapa-pe@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/05 19:24:33 by gcapa-pe          #+#    #+#             */
-/*   Updated: 2023/02/07 13:16:41 by gcapa-pe         ###   ########.fr       */
+/*   Updated: 2023/02/06 11:39:10 by gcapa-pe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -80,4 +80,3 @@ void	ft_converter(long int n, int len, char *base)
 // 	ft_putnbr_base(6, "abc");
 // 	return (0);
 // }
-

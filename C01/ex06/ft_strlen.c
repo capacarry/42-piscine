@@ -3,14 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: gcapa-pe <gcapa-pe@student.42.fr>          +#+  +:+       +#+        */
+/*   By: gonbarbo <gonbarbo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/01/31 12:32:26 by gcapa-pe          #+#    #+#             */
-/*   Updated: 2023/01/31 13:39:45 by gcapa-pe         ###   ########.fr       */
+/*   Created: 2023/01/30 11:42:13 by gonbarbo          #+#    #+#             */
+/*   Updated: 2023/01/30 12:06:46 by gonbarbo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 // #include <stdio.h>
+#include <unistd.h>
+
 int	ft_strlen(char *str)
 {
 	int	i;
